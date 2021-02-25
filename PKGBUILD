@@ -12,7 +12,6 @@ _scriptsdir=scripts
 pkgname=$_pkgname
 pkgver=0.13.0
 pkgrel=1
-epoch=1
 pkgdesc='Self Hosted Git Service written in Go'
 arch=('i686' 'x86_64' 'armv6h' 'armv7h' 'aarch64')
 url="https://$_pkgname.io"
